@@ -24,8 +24,8 @@
 
 ## Usage
     The user can utilize this template to quickly and easily generate a team profile as needed for their specific business case.
-![usage-gif](./Assets/cof-readme.gif)
-![usage-img](./Assets/cof-screenshot.png)
+![usage-gif](./cof-team-profile.gif)
+
 
 ## License
     MIT
